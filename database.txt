@@ -1,0 +1,4 @@
+ 1 butter 30 5 
+ 2 bread 50 5
+ 3 chips 30 4
+ 4 top 290 56
